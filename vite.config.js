@@ -4,5 +4,5 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/smart-food-for-health/',
+  base: '/Smart-food-for-health/',
 })
